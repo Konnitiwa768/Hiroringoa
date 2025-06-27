@@ -1,4 +1,5 @@
 # JuoDuo
+https://chatgpt.com
 livelink: https://duojuo.herokuapp.com/#/
 https://vercel.com
 JuoDuo is a fully functional clone of Duolingo, that uses the actual DuoLingo User JSON (and in particular, the LanguageData Object) as an architectural reference [(check out the sample state!)](https://github.com/jdarmoni/DuoJuo/wiki/Sample-State). It was built from the ground up using a Ruby on Rails backend, PostGreSQL database, and a React - Redux frontend. 
